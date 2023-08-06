@@ -1,0 +1,187 @@
+
+header{
+    display: flex;
+    background-color:rgb(194, 74, 30);
+    height: 150px;
+}
+nav ul li {
+    display: inline-block;
+    padding: 70px;
+    text-align: center;
+}
+nav ul li a{
+    padding: 10px;
+    color: yellow;
+    text-decoration: none;
+    color:white;
+    text-decoration: none;
+    text-align: center;
+    font-size: large;
+}
+#home
+{
+    margin-top: 5px;
+    /*margin-left: 50px;*/
+   
+}
+body
+{
+    background-color: rgb(252, 246, 250);
+}
+.grid{
+    display: grid;
+    display: flex;
+    flex-wrap: wrap ;
+}
+#m img{
+    border-radius: 10%;
+
+}
+#about h2{
+    text-align: center;
+}
+.para{
+    padding: 50px;
+}
+ pre{
+    font-family:'Times New Roman', Times, serif;
+    font-size:17px;
+
+}
+.grid1{
+    display: grid;
+    display: flex;
+    flex-wrap: wrap ;
+    padding: 20px;
+    margin: 10px;
+}
+.item1{
+    padding: 10px;
+}
+.item2{
+    padding: 20px;
+}
+.grid2{
+    
+        display: grid;
+        display: flex;
+        flex-wrap: wrap ;
+        padding: 20px;
+        margin: 20px;
+
+    
+}
+#move
+{
+    width: 100%;
+    height: 700px;
+    background-color: black;
+    overflow: auto auto;
+    white-space: nowrap;
+}
+#move .slide{
+    display: inline-block;
+}
+.r2{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+.inputbox{
+    background-color: antiquewhite;
+    color: aliceblue;
+    padding: 30x;
+    border: 4px solid red;
+    width: 400px;
+    height: 80px;
+}
+label{
+    display: block;
+    padding:15px;
+}
+form{
+    width: 500px;
+    height: 400px;
+    margin-top: 100px;
+    margin-left: 100px;
+    padding: 20px;
+    text-align: center;
+   border: 2px solid black;
+    margin:10px 400px 20px 400px;
+    background-color: rgba(93, 93, 101, 0.505);
+
+    
+}
+
+#contactus h2{
+    text-align: center;
+    margin-top: 50px;
+
+}
+.footer1{
+    display: flex;
+    margin-left: 600px;
+}
+#footer{
+    
+    background-color:rgba(26, 26, 24, 0.678);
+    height: 200px;
+    width:1500px;
+    
+    
+}
+.logo{
+    margin-top: 20px;
+    margin-left: 40px;
+    padding: 30x;
+}
+.fblogo{
+    margin:0px 0px 0px 0px;
+}
+#review{
+    background-color:black;
+    color:white;
+    height:300px;
+    width: 300px;
+    padding: 10px;
+
+}
+
+.photo,.photo1{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin:300px 0px 0px opx;
+    
+}
+.foodtaste,.foodtaste1{
+    display: flex; 
+    margin: 50px 0px 0px 0px;
+    margin-right: 100px;
+    background-color:rgba(39, 110, 112, 0.785);
+    color:white;
+    height:150px;
+    width: 470px;
+    padding: 30px;
+    
+
+}
+.foodtaste3{
+    display: flex; 
+    margin: 50px 0px 0px 0px;
+    background-color:rgba(39, 110, 112, 0.785);
+    color:white;
+    height:150px;
+    width: 470px;
+    padding: 30px;
+    
+
+}
+
+.food{
+    display: flex;
+    
+}
+.row{
+    margin-left: 200px;
+}
